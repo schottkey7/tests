@@ -1,2 +1,2 @@
 # tests
-Various tests
+Tests
